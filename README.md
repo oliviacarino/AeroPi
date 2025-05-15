@@ -1,15 +1,15 @@
-<p align="center"><img alt="Neural Radiance Fields" src="./images/nerf_logo.png" width="400"></p>
+<p align="center"><img alt="AeroPi" src="./readme_images/logo.png" width="400"></p>
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>Neural Radience Fields (NeRF)</h1>
+      <h1>AeroPi</h1>
     </summary>
   </ul>
 </div>
 
 ## About
-This project was built for a hackathon and uses Neural Radiance Fields (NeRFs) to generate detailed 3D terrain maps of disaster zones. Drones capture aerial imagery, processed on a Raspberry Pi prototype (with plans for GPU acceleration), and transmitted via the AT&T network. The goal is to help first responders gain rapid, accurate situational awareness in crisis areas.
+This project was built for a hackathon and uses COLMAP to generate detailed 3D terrain maps of disaster zones. Drones capture aerial imagery, processed on a Raspberry Pi prototype (with plans for GPU acceleration), and transmitted via the AT&T network. The goal is to help first responders gain rapid, accurate situational awareness in crisis areas.
 
 ## Dependencies
 **Hardware**
