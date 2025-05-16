@@ -1,4 +1,4 @@
-<p align="center"><img alt="AeroPi" src="./readme_images/logo.png" width="400"></p>
+<p align="center"><img alt="AeroPi" src="logo.png" width="400"></p>
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
