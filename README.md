@@ -1,12 +1,13 @@
 <p align="center"><img alt="AeroPi" src="logo.png" width="400"></p>
 
-<div id="user-content-toc">
+<!--<div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>AeroPi</h1>
     </summary>
   </ul>
 </div>
+-->
 
 ## About
 This project was built for a hackathon and uses COLMAP to generate detailed 3D terrain maps of disaster zones. Drones capture aerial imagery, processed on a Raspberry Pi prototype (with plans for GPU acceleration), and transmitted via the AT&T network. The goal is to help first responders gain rapid, accurate situational awareness in crisis areas.
