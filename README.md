@@ -31,7 +31,8 @@ To improve image quality before 3D reconstruction, noisy input images are proces
   </table>
 </div>
 
-
+## Getting Started
+1. WIP
 
 ## Dependencies
 **Hardware**
