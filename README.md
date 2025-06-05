@@ -44,3 +44,4 @@ To improve image quality before 3D reconstruction, noisy input images are proces
 ## Resources & Notes
 1. <em>[Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration](https://arxiv.org/abs/2310.05504)</em>
 2. [ColMap Github](https://github.com/colmap/colmap)
+3. [Images](https://demuc.de/colmap/datasets/) used for getting started with example data
