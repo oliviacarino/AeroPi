@@ -13,7 +13,7 @@ Beyond disaster response, this technology has versatile business applications, i
 This integrated system combines edge computing on Raspberry Pi prototypes for initial processing with high-performance GPU servers for advanced 3D reconstruction, demonstrating a scalable pipeline from drone data capture to actionable 3D outputs.
 
 ## High Level Overview of AeroPi Architecture
-<p align="left"><img alt="AeroPi" src="architecture.png" width="800"></p>
+<p align="left"><img alt="AeroPi" src="HLA.png" width="800"></p>
 
 ## Image Denoising Example
 
