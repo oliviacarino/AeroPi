@@ -60,6 +60,7 @@ This walkthrough assumes you already have your images ready. For this demo, plea
 7. Save the file (Save Project As). Open this file within any 3D mesh processing software. I used [MeshLab](https://www.meshlab.net/). Import your dense point cloud into MeshLab to view it as a 3D model (the way humans were meant to visualize these 🤓). If you're having trouble finding the file, it should be under `example-images/south-building/dense/0/[project_name].ply` if you are following along with the example data.
 
 That's it! 🎉🎉
+Bear witness to your 3D rendered model in all of its glory! Depending on which 3D mesh processing software you used, you can export your data into 3D-printing-friendly files (.stl, etc.)!
 
 ## Dependencies
 **Hardware**
