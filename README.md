@@ -49,7 +49,7 @@ This walkthrough assumes you already have your images ready. For this demo, plea
 4. Your denoised images should be saved to `denoised-images/`
 *Note, filepaths are currently set to be static and will need to be changed before running `denoise.py` if you use other image data. This is a feature I plan to add in the future where filepaths are dynamically generated depending on the images you are using for input.*
 
-***Note** -- the rest of this tutorial assumes the denoised images from the Pi will be transferred via secured and simple client-server, TLS handshake. ColMap will be run on a machine equipped with a beefy GPU (I used an Nvidia 5070 Ti)*
+    ***Note** -- the rest of this tutorial assumes the denoised images from the Pi will be transferred via secured and simple client-server, TLS handshake. ColMap will be run on a machine equipped with a beefy GPU (I used an Nvidia 5070 Ti)*
 
 5. Download the latest release of ColMap [here](https://github.com/colmap/colmap/releases)
 	*Tip: to make sure it installed correctly, run the test BAT file from your CLI*
